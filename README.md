@@ -8,3 +8,6 @@ Para cada ronda en específico; el comando: if result con un print si es empate,
 
 Estos son los resultados tras 100 rondas de juego entre Jim, Jane, Peter y Zoe:
 ![Imagen de WhatsApp 2024-11-25 a las 22 51 31_f26fa14e](https://github.com/user-attachments/assets/c91de48e-0004-43e0-a07c-39d9347456a0)
+
+
+Como se nota, es Zoe la ganadora con 97 puntos.
