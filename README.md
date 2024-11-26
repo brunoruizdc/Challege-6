@@ -34,3 +34,5 @@ O, si a caso, Lagarto pierde con piedra: ('Lizard', 'Rock'): (0, 1)
 Teniendo en cuenta dichas estrategias, los amigos empiezan a jugar soltando los siguientes resultados:
 
 ![Captura de pantalla 2024-11-25 225512](https://github.com/user-attachments/assets/89ec2599-b8cd-4336-9264-28b747050c33)
+
+En esta ocasión; el jugador "brunocerdán3" fue el ganador con 372 puntos.
